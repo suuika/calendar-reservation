@@ -15,6 +15,7 @@
 ## Reservation System PHP
 [予約システムのPHPリポジトリ](https://github.com/sk0025/reservation_php) をダウンロード
 
+ログイン画面URL : http://localhost:<ポート番号>/reserve_login.php
 
 # Functions
 ## Calendar
